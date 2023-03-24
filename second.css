@@ -1,0 +1,117 @@
+.firsto{
+    font-weight: bold;
+}
+.section1{
+    text-align: center;
+}
+#color1{
+    background: #8678B7;
+    
+}
+#color2{
+    background: #93DAC5;
+}
+#color3{
+    background: #B6E0B0;
+    
+}
+#color4{
+    background: #F09C83;
+}
+#color5{
+    background: #f0CAA6;
+}
+#color6{
+    background: #F3F9D1;
+}
+#color7{
+    background: #8878B3;
+}
+#color8{
+    background: #FFEEC2;
+}
+#color9{
+    background: #7AB1D2;
+}
+#color10{
+    background: #B9767E;
+}
+#color11{
+    background:#7C435C;
+}
+body {
+    display: flex;
+    
+    justify-content: center;
+   
+}
+
+@media screen and (min-width: 1140px) {
+    td {
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 1140px) {
+    td {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 1050px) {
+    td {
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    td {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    td {
+        font-size: 7px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    td {
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    td {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    td {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    td {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    td {
+        font-size: 4px;
+    }
+}
+
+#img1{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-left: 70%;
+    margin-top: 07%;
+    
+}
+.text{
+    margin-left: 70%;
+}
